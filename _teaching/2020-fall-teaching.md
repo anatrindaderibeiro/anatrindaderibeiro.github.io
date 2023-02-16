@@ -8,15 +8,17 @@ date: 2020-09-01
 location: "Stanford, CA"
 ---
 
-- Introduced interactive resources to guide class discussions and updated the reading list with
+#- Introduced interactive resources to guide class discussions and updated the reading list with
 state-of-the-art research and authorship diversity.
-- Mentored students by leading Q&A sessions, taught coding skills in R and STATA to analyze
+#- Mentored students by leading Q&A sessions, taught coding skills in R and STATA to analyze
 experiments, and advised on experiment designs for final project.
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+#Heading 1
+#======
+
+#Heading 2
+#======
+
+#Heading 3
+#======
