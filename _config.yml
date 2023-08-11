@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ana Trindade Ribeiro, PhD Candidate"
+title                    : "Ana Trindade Ribeiro, Ph.D."
 title_separator          : "-"
 name                     : &name "Ana Trindade Ribeiro"
-description              : &description "I'm a PhD Candidate in Education and Economics at Stanford University."
+description              : &description "I'm a Postdoctoral Researcher at NSSA/Stanford"
 url                      : https://anatrindaderibeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anatrindaderibeiro/anatrindaderibeiro.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ana Trindade Ribeiro"
   avatar           : "profile.png"
-  bio              : "I'm a PhD Candidate in Education and Economics"
+  bio              : "Postdoctoral Researcher at NSSA/Stanford"
   location         : "Stanford, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
