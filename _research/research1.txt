@@ -1,8 +1,8 @@
 ---
 title: "Experimental Research Design and Analysis"
-collection: teaching
+collection: research
 type: "Graduate course"
-permalink: /research/2020-fall-teaching
+permalink: /research/research1
 venue: "Stanford University"
 date: 2020-09-01
 location: "Stanford, CA"
