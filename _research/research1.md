@@ -1,10 +1,10 @@
 ---
-title: "Experimental Research Design and Analysis"
+title: "Long-term Outcomes of Affirmative Action - Evidence from a Selective Law School in Brazil"
 collection: research
-type: "Graduate course"
+type: "Working Paper"
 permalink: /research/research1
 venue: "Stanford University"
-date: 2020-09-01
+#date: 2020-09-01
 location: "Stanford, CA"
 ---
 
@@ -14,11 +14,3 @@ state-of-the-art research and authorship diversity.
 experiments, and advised on experiment designs for students' final project.
 
 
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
